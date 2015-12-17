@@ -1,0 +1,1 @@
+Just a minimal shell to view the CartoDB map full screen.
